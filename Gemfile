@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', github: 'twbs/bootstrap-sass', branch: 'master'
 gem 'devise', '~> 3.2.2'
 gem 'paperclip', '~> 3.0'
+#gem 'rmagick'
 #gem 'cocaine', '~> 0.3.2'
 
 group :development, :test do
